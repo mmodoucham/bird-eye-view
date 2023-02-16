@@ -1,0 +1,12 @@
+data/static/features/*
+data/static/images/*
+data/df.csv
+data/embeddings/*
+.vscode
+__pycache__
+.DS_Store
+.env
+data/features/*
+data/images/*
+notebooks/*
+.idea/
